@@ -1,0 +1,17 @@
+assignment_id,subject,assignment_title,due_date,estimated_hours,priority,status
+A001,Mathematics,Linear equations practice set,2026-12-03,3,High,Not Started
+A002,Computer Science,Python functions mini-project,2026-12-06,6,High,In Progress
+A003,Biology,Cell structure concept map,2026-12-08,2,Medium,Not Started
+A004,History,Industrial era source analysis,2026-12-10,4,Medium,In Progress
+A005,English,Comparative short story essay,2026-12-12,5,High,Not Started
+A006,Physics,Motion and forces problem sheet,2026-12-15,3,Medium,Not Started
+A007,Geography,Urban growth case study,2026-12-17,4,Low,In Progress
+A008,Chemistry,Acids and bases lab reflection,2026-12-19,2,Medium,Not Started
+A009,Computer Science,Database design worksheet,2026-12-21,3,High,Not Started
+A010,Mathematics,Statistics data investigation,2026-12-23,5,High,In Progress
+A011,Art,Color theory portfolio draft,2026-12-28,4,Low,Not Started
+A012,Biology,Ecosystem field notes summary,2027-01-05,3,Medium,Not Started
+A013,English,Poetry analysis presentation,2027-01-08,4,Medium,In Progress
+A014,Physics,Energy transfer research brief,2027-01-12,5,High,Not Started
+A015,History,Ancient trade routes timeline,2027-01-15,3,Low,Not Started
+A016,Computer Science,Algorithm comparison report,2027-01-20,6,High,Not Started
