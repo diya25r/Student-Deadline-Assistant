@@ -1,0 +1,72 @@
+Assignment Planning: From Instructions to a Finished Submission
+
+Purpose
+
+An assignment becomes easier to manage when it is translated from a large outcome into a sequence of visible tasks. Planning does not mean predicting every detail perfectly. It means understanding what is being asked, estimating the work honestly, leaving room for revision, and noticing early when a question needs clarification. This guide applies to essays, presentations, coding projects, experiments, reports, creative work, and other student tasks.
+
+Start by understanding the brief
+
+Read the assignment instructions once to understand the overall purpose, then read them again with a pen or notes open. Mark the action words: explain, compare, design, evaluate, prove, create, test, or reflect. These verbs describe the kind of thinking or evidence expected. Identify the required topic, format, length, audience, due time, submission method, and any restrictions on sources or tools. Separate requirements that are essential from examples that are optional.
+
+Turn the brief into a checklist. A checklist might include a research question, a minimum number of sources, a set of required sections, a diagram, a demonstration, a reflection, and a final upload. If a requirement is ambiguous, write down the exact uncertainty and ask the teacher early. Do not guess at a high-impact instruction, such as whether a project needs citations or a particular file format. Keep the answer or clarification with the assignment notes.
+
+Define “done” before doing the work
+
+Students sometimes begin by polishing details before confirming what a complete submission needs. Make a short definition of done from the brief. For an essay, it could mean that the draft answers the prompt, each main claim has evidence, the structure is clear, and citation and formatting checks are complete. For a programming task, it could mean required features work, tests cover expected inputs, the code can be run, and the submission includes the requested files. For a presentation, it could mean the audience can follow the argument, visuals are readable, sources are credited, and speaking time is within the limit.
+
+Use the assessment rubric as a planning tool, not only as a score sheet. Translate each rubric category into a question you can ask while reviewing. If the rubric rewards explanation, ask whether the reasoning is visible rather than implied. If it rewards evidence, identify where evidence will appear. A rubric cannot replace the assignment brief, but it can help direct attention to the qualities being assessed.
+
+Break the work into deliverables and actions
+
+First list the major parts of the assignment. Then break each part into actions that can be completed in one focused session. “Write the report” is too broad to schedule. “Choose the claim,” “collect evidence for section one,” “draft the first two paragraphs,” and “check the graph labels” are more concrete. A task should have a clear finish point that can be recognized without waiting for the entire project to be complete.
+
+For a research assignment, the sequence may include narrowing a question, locating suitable sources, taking notes with source details, organizing evidence, making an outline, drafting, revising, and checking references. For a software project, it may include reading requirements, sketching a design, creating a small working version, implementing one feature at a time, testing normal and unusual inputs, improving readability, and preparing the submission. For a lab report, it may include organizing observations, checking calculations, describing the method, interpreting results, acknowledging limitations, and proofreading units and labels.
+
+Estimate effort rather than only counting calendar days
+
+Write an approximate duration beside each task. Use previous work as a guide and include time to get materials, switch between tasks, and resolve likely questions. Estimates are predictions, not promises. If a task is unfamiliar, add a buffer or divide it into a short exploration step followed by a better estimate. If the total work does not fit the time available, identify this early rather than hiding the mismatch.
+
+Separate fixed dates from flexible ones. The final due date is fixed, while a personal draft date is a planning choice. Aim to finish a complete draft or working version before the due date so there is time for feedback, testing, revision, or an unexpected delay. The buffer should not be filled automatically with extra work; its job is to protect the quality of the final result when something takes longer than expected.
+
+Plan backwards, then choose the next action
+
+Begin with the submission deadline and move backwards. Reserve a final check period, then place revision or testing before it, and put drafting or implementation before that. Research, planning, and clarification usually belong earlier because they affect later decisions. Once the larger milestones have places on the calendar, decide what can be done in the next study session. A one-day plan should include a realistic amount of work and a stopping point.
+
+When several assignments overlap, do not assume that every task can receive equal time each day. Compare urgency, importance, workload, dependencies, and the consequences of delay. Some tasks have a long dependency chain: a source search must happen before a draft, or a program structure must exist before integration tests can be run. Complete blockers early. A short action on an important assignment can reduce future uncertainty even when the final deliverable is not yet due.
+
+Research and note-making
+
+Keep notes connected to their sources. Record enough bibliographic information while reading so that a useful fact or quotation can be found again. Write a short summary in your own words and mark direct quotations clearly. Do not copy a passage into notes and later mistake it for original writing. Compare sources, check whether they answer the assignment question, and distinguish evidence from your own interpretation.
+
+If research is getting broad, return to the assignment question. Search for a specific sub-question rather than collecting material indefinitely. A useful source should contribute to a claim, method, or explanation in the final work. Maintain a small list of gaps: a concept to verify, an opposing view to consider, or a data point that needs a reliable source. If a source appears to conflict with another, investigate the difference instead of hiding it.
+
+Drafting, making, and revising
+
+Create a rough structure before polishing sentences or visual details. Use headings, an outline, a storyboard, pseudocode, or a list of steps as appropriate. The first version is for getting the main ideas or functions in place. Revision is a separate pass: check whether the work answers the prompt, whether sections are in a useful order, and whether evidence and examples support the main point. Editing for spelling and formatting comes after the larger reasoning is sound.
+
+For a technical project, test behavior as features are added rather than waiting until the last day. Write down what should happen for an ordinary input and at least one boundary case. If the result differs, reproduce the problem, isolate the cause, make a small correction, and test again. Keep copies or use version control where available; do not make a risky last-minute change without checking that the required behavior still works.
+
+Feedback and help
+
+Ask for feedback while there is still time to act on it. A specific question gets more useful feedback than “Is this good?” For example, ask whether the evidence supports the claim, whether a diagram is understandable, or whether the prototype meets a particular requirement. When feedback arrives, sort it into required corrections, useful improvements, and preferences. Apply feedback that improves the work while keeping the assignment instructions in view.
+
+If a blocker remains, describe what you tried, what happened, and the precise question. A teacher, librarian, tutor, classmate, or support service may be able to help with different parts of the problem. Asking early is a planning action, not a sign that the entire assignment has failed.
+
+Final review and submission
+
+Use a checklist based on the brief. Confirm that every required section or feature is present, files open correctly, labels and units are clear, and citations are complete. Check the naming convention and submission location. If the system provides a confirmation or preview, verify that the intended version was uploaded. Keep a copy of the final file and note that submission is complete only after the actual upload or hand-in has been confirmed.
+
+Do not confuse a draft plan with a completed assignment. A schedule is useful because it points toward work; it does not prove that the work is finished. After submission, make a brief note about which estimate was accurate and which stage took longer. That information can improve the next assignment plan.
+
+Simple planning worksheet
+
+- What is the assignment asking me to produce?
+- What requirements and assessment criteria must I meet?
+- Which questions should I clarify?
+- What are the major stages and the next small action?
+- How many hours might each stage take, including a buffer?
+- Which steps depend on earlier work?
+- When will I draft, test or revise, and check the final submission?
+- What help or materials do I need, and when will I ask for them?
+
+A strong plan stays flexible while keeping the requirements visible. If circumstances change, update the remaining tasks and ask for help where needed instead of pretending that the old schedule still fits.

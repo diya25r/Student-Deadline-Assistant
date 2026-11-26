@@ -4,8 +4,11 @@ __pycache__/
 *.py[cod]
 .env
 .env.*
+.streamlit/secrets.toml
 *.key
 *api_key*
+*api-key*
+*apikey*
+*secret*
 *.tmp
 *.temp
-.streamlit/secrets.toml
